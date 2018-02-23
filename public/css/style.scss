@@ -1,0 +1,25 @@
+@import "characters-list";
+@import "controls";
+@import "results";
+
+body {
+  font-family: sans-serif;
+  font-size: 16px;
+  background-color: #e6e6fa;
+}
+
+#app {
+  width: 500px;
+  margin: 50px auto 0;
+  padding: 20px;
+  border: 1px solid #8b8b8b;
+  background-color: #ffffff;
+}
+
+.row {
+  padding: 10px 0;
+}
+
+.center {
+  text-align: center;
+}

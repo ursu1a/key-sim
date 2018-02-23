@@ -1,0 +1,9 @@
+/node_modules
+/.idea
+
+/test-js-task-2.md
+/Screenshot_20171107_114251.png
+/yarn.lock
+/package-lock.json
+/public/.sass-cache/
+/npm-debug.log

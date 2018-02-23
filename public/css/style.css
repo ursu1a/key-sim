@@ -1,0 +1,48 @@
+.characters-list {
+  font-family: "Courier New";
+  cursor: default; }
+  .characters-list .character-item {
+    text-align: center;
+    display: inline-block;
+    width: 22px;
+    height: 28px;
+    line-height: 28px;
+    border: 1px solid #000000;
+    border-width: 1px 1px 1px 0; }
+    .characters-list .character-item.marked {
+      color: #ff0000;
+      font-weight: 800;
+      background-color: #deb887; }
+  .characters-list .character-item:first-child {
+    border-width: 1px; }
+
+.controls .start {
+  padding: 10px;
+  margin: 40px 0; }
+.controls .control-button {
+  font-size: 15px;
+  font-weight: bold;
+  padding: 7px; }
+
+.results .results .result-item {
+  padding-top: 4px; }
+
+body {
+  font-family: sans-serif;
+  font-size: 16px;
+  background-color: #e6e6fa; }
+
+#app {
+  width: 500px;
+  margin: 50px auto 0;
+  padding: 20px;
+  border: 1px solid #8b8b8b;
+  background-color: #ffffff; }
+
+.row {
+  padding: 10px 0; }
+
+.center {
+  text-align: center; }
+
+/*# sourceMappingURL=style.css.map */
